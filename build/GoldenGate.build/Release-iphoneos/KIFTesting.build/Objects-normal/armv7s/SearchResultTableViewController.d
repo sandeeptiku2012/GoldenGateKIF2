@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/SearchResultTableViewController.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/SearchResultTableViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/SearchResultCell.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/AllSearchResultsCell.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/KIT/Views/KITTileImageView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Utils/GGColor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SearchResultInfoDelivering.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/PrefetchingDataSource.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/BlockDefinitions.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/DataFetching.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestProgramSortBy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/GlobalSearchModel.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/ChannelModalViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/GGBaseViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/TrackingPathGenerating.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/LoadingView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/VideoPlaybackViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/TimedUserInterfaceVisibilityController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Channel.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Entity.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Utils/Constants.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Error.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Video.h

@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/GGBaseViewController.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/GGBaseViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/TrackingPathGenerating.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/KIT/Core/KITImageProvider.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/KIT/Core/KITImageProviderFactory.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/KIT/Localization/KITViewLocalizer.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VimondStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VideoStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestProgramSortBy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/FavoriteStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ChannelStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ShowStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/CategoryStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SearchExecutor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SessionManager.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/RatingStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/BlockDefinitions.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/NavActionExecutor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/GGUsageTracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/UsageTracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/UsageTracking.h

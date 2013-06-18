@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/FeaturedContentCellView.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/FeaturedContentCellView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/CellView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/TVImageView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/FeaturedContent.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Entity.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Utils/GGColor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ImageURLBuilder.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VimondStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VideoStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestProgramSortBy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/FavoriteStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ChannelStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ShowStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/CategoryStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SearchExecutor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SessionManager.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/RatingStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/BlockDefinitions.h

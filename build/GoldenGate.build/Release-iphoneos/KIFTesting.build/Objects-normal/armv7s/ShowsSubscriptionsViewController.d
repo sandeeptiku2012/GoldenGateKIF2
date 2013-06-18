@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/ShowsSubscriptionsViewController.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/ShowsSubscriptionsViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/BaseNavViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/GGBaseViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/TrackingPathGenerating.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/LoadingView.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/View/ShowSummaryCellPaged.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Controller/GridViewController.h \
+  Frameworks/GMGridView/GMGridView.h \
+  Frameworks/GMGridView/GMGridView-Constants.h \
+  Frameworks/GMGridView/GMGridViewCell.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/PrefetchingDataSource.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/BlockDefinitions.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/DataFetching.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestProgramSortBy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/MyShowsDataFetcher.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/CategoryAction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ViewAction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/NavAction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/MyChannelsAction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ChannelsForCategoryDataFetcher.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ObjectAsSourceDataFetcher.h

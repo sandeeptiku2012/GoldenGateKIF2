@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SessionManager.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SessionManager.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/User.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/Services/AuthenticationClient.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/RESTEasy/RestClient.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestLoginResult.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/RESTEasy/JSONSerializable.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/GGBackgroundOperationQueue.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Util/KeychainItemWrapper.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VimondStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/VideoStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/VimondAPI/DTO/RestProgramSortBy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/FavoriteStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ChannelStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/ShowStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/CategoryStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SearchExecutor.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/RatingStore.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/BlockDefinitions.h

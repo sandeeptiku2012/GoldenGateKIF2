@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/GGUsageTracker.m \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/GGUsageTracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/UsageTracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/UsageTracking.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/GATrackerProxy.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Frameworks/GoogleAnalytics/GAITracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Frameworks/GoogleAnalytics/GAITransaction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Frameworks/GoogleAnalytics/GAITransactionItem.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Frameworks/GoogleAnalytics/GAI.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/Frameworks/GoogleAnalytics/GAITrackedViewController.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/UsageEventTemplate.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Video.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Entity.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/SearchResultInfoDelivering.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Channel.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Utils/Constants.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/Error.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Tracking/TFTracker.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/FilterAction.h \
+  /Users/Valtech/Desktop/GoldenGateKIF/GoldenGateiPad/GoldenGate/Model/NavAction.h
